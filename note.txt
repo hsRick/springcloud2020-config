@@ -1,3 +1,5 @@
 二者都有时采用项目级别的签名
 两者都没有是不允许的
-
+git status #查看工作区，暂存区内容
+先添加到暂存区可对提交操作进行撤回
+git commit -m[message] [file name]
